@@ -10,7 +10,7 @@ Multiple files can be imported at once to accommodate platforms that limit RIS e
 
 ## Install and run on Windows
 
-1. Download the ZIP from the latest release and extract all its files into one folder.
+1. Download the ZIP from the [latest release](https://github.com/Bluzaborges/ris-collect/releases) and extract all its files into one folder.
 2. Open the extracted folder and run `RisCollect.exe`.
 
 ## Build
