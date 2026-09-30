@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+publish/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+*.csv
+*.db
+*.db-shm
+*.db-wal
